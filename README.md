@@ -1,2 +1,2 @@
-# Airbnb-Bookings-Analysis---Capstone-Project
+# Airbnb-Bookings-Analysis-Capstone-Project
 Exploratory Data Analysis of Airbnb Bookings dataset
